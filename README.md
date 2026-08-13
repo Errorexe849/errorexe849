@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner / Animated Text Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=error%20exe&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=error%20&👅fontSize=70" width="100%" />
 
   <h3>Backend Developer | API Specialist | Prompt Engineer</h3>
   
@@ -47,13 +47,7 @@
   <!-- Tech Stack & Tools Section -->
   <h2>💻 Tech Stack & Tools 💻</h2>
 
-  <h3>📱 Mobile Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  </p>
+
 
   <h3>🌐 Web Development</h3>
   <p>
