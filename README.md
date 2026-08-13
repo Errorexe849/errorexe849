@@ -9,7 +9,6 @@
 
   <!-- Custom Dancing GIFs -->
   <p align="center">
-    <img src="./assets/Miku%20Dancing.gif" width="180" alt="Miku Dancing" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./assets/download.gif" width="180" alt="Chibi Dancing" />
   </p>
