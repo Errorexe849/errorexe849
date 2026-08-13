@@ -7,14 +7,19 @@
   
   <br />
 
-  <!-- Visitor Counter Badges -->
-  <img src="https://komarev.com/ghpvc/?username=errorexe849&label=PROFILE+VIEWS&color=0e75dd&style=flat" alt="Profile Views" />
-  
-  <br /><br />
+<!-- Profile Stats Row 1 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-87,493-grey?style=for-the-badge&labelColor=555555&color=ff6b52" />
+  <img src="https://img.shields.io/badge/FOLLOWERS-24-grey?style=for-the-badge&labelColor=555555&color=ff4f4f" />
+  <img src="https://img.shields.io/badge/STARS-125-grey?style=for-the-badge&labelColor=555555&color=f4d03f" />
+</p>
 
-  <!-- Dynamic Stats Card -->
-  <a href="https://github.com/errorexe849">
-    <img src="https://github-readme-stats.vercel.app/api?username=errorexe849&show_icons=true&theme=dark" alt="GitHub Stats" />
+<!-- Profile Stats Row 2 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/YEARS-3-grey?style=for-the-badge&labelColor=555555&color=5dade2" />
+  <img src="https://img.shields.io/badge/REPOS-53-grey?style=for-the-badge&labelColor=555555&color=5dade2" />
+  <img src="https://img.shields.io/badge/COMMITS_THIS_MONTH-5-grey?style=for-the-badge&labelColor=555555&color=5dade2" />
+</p>
   </a>
 
   <br />
