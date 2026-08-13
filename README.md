@@ -1,20 +1,20 @@
 <div align="center">
 
   <!-- Header Banner / Animated Text Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=error&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=error%20exe&fontSize=70" width="100%" />
 
   <h3>Backend Developer | API Specialist | Prompt Engineer</h3>
   
   <br />
 
   <!-- Visitor Counter Badges -->
-  <img src="https://komarev.com/ghpvc/?username=error&label=PROFILE+VIEWS&color=0e75dd&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=errorexe849&label=PROFILE+VIEWS&color=0e75dd&style=flat" alt="Profile Views" />
   
   <br /><br />
 
   <!-- Dynamic Stats Card -->
-  <a href="https://github.com/error">
-    <img src="https://github-readme-stats.vercel.app/api?username=error&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <a href="https://github.com/errorexe849">
+    <img src="https://github-readme-stats.vercel.app/api?username=errorexe849&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
 
   <br />
@@ -61,7 +61,7 @@
   <h2>📊 GitHub Analytics</h2>
   
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=error&theme=react-dark" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=errorexe849&theme=react-dark" alt="Activity Graph" />
   </p>
 
 </div>
