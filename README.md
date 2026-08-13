@@ -7,22 +7,42 @@
   
   <br />
 
-<!-- Profile Stats Row 1 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-87,493-grey?style=for-the-badge&labelColor=555555&color=ff6b52" />
-  <img src="https://img.shields.io/badge/FOLLOWERS-24-grey?style=for-the-badge&labelColor=555555&color=ff4f4f" />
-  <img src="https://img.shields.io/badge/STARS-125-grey?style=for-the-badge&labelColor=555555&color=f4d03f" />
-</p>
-
-<!-- Profile Stats Row 2 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/YEARS-3-grey?style=for-the-badge&labelColor=555555&color=5dade2" />
-  <img src="https://img.shields.io/badge/REPOS-53-grey?style=for-the-badge&labelColor=555555&color=5dade2" />
-  <img src="https://img.shields.io/badge/COMMITS_THIS_MONTH-5-grey?style=for-the-badge&labelColor=555555&color=5dade2" />
-</p>
-  </a>
+  <!-- Custom Dancing GIFs -->
+  <p>
+    <img src="./assets/miku.gif" width="180" alt="Miku Dancing" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./assets/dance.gif" width="180" alt="Chibi Dancing" />
+  </p>
 
   <br />
+
+  <!-- Anime Pixel Visitor Counter -->
+  <img src="https://count.getloli.com/get/@errorexe849?theme=rule34" alt="Anime Counter" />
+
+  <br /><br />
+
+  <!-- Profile Stats Row 1 -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/PROFILE_VIEWS-87,493-grey?style=for-the-badge&labelColor=555555&color=ff6b52" />
+    <img src="https://img.shields.io/badge/FOLLOWERS-24-grey?style=for-the-badge&labelColor=555555&color=ff4f4f" />
+    <img src="https://img.shields.io/badge/STARS-125-grey?style=for-the-badge&labelColor=555555&color=f4d03f" />
+  </p>
+
+  <!-- Profile Stats Row 2 -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/YEARS-3-grey?style=for-the-badge&labelColor=555555&color=5dade2" />
+    <img src="https://img.shields.io/badge/REPOS-53-grey?style=for-the-badge&labelColor=555555&color=5dade2" />
+    <img src="https://img.shields.io/badge/COMMITS_THIS_MONTH-5-grey?style=for-the-badge&labelColor=555555&color=5dade2" />
+  </p>
+
+  <br />
+
+  <!-- Dynamic GitHub Stats Card -->
+  <a href="https://github.com/errorexe849">
+    <img src="https://github-readme-stats.vercel.app/api?username=errorexe849&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
+
+  <br /><br />
   <hr />
 
   <!-- Tech Stack & Tools Section -->
