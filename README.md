@@ -8,10 +8,10 @@
   <br />
 
   <!-- Custom Dancing GIFs -->
-  <p>
-    <img src="./assets/miku.gif" width="180" alt="Miku Dancing" />
+  <p align="center">
+    <img src="./assets/Miku%20Dancing.gif" width="180" alt="Miku Dancing" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./assets/dance.gif" width="180" alt="Chibi Dancing" />
+    <img src="./assets/download.gif" width="180" alt="Chibi Dancing" />
   </p>
 
   <br />
