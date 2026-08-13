@@ -1,3 +1,4 @@
+![Uploading download.gif…]()
 <div align="center">
 
   <!-- Header Banner / Animated Text Image -->
